@@ -1,4 +1,10 @@
 # hostelmanagement
+HOSTEL MANAGEMENT SYSTEM
+Game theory, Web Development
+• Top Trading Cycle Algorithm, Design and Analysis of Algorithms;
+Languages : PHP, SQL, Java • Implementation of Hostel Room Allotment
+System where preferences will be given by students. Maintains all of
+student’s records and details regarding hostel in this system
 Our project is on hostel room allotment system where the preferences will be given by students.
 We are building an algorithm which is fueled entirely by matching theory. 
 We will collect the data like the total types of rooms available and the students available and then will create a database. The project is Designed to keep the record of the students living in hostels, allocation of rooms, monthly dues yearly dues etc.
