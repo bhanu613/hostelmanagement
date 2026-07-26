@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <title></title>
-  <link rel="stylesheet" href="..\css\mhreg.css">
+  <link rel="stylesheet" href="../css/mhreg.css">
 
   </head>
   <body>
@@ -176,7 +176,7 @@ else{
 }
 }
    ?>
-<?php include '../header.php';?>
+<?php include '../admin/header.php';?>
 <form class="" action="mhregistration.php" method="post">
 
 
