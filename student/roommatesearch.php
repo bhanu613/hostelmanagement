@@ -50,7 +50,7 @@ td:first-child, th:first-child {
 </style>
   </head>
   <body>
-<?php include '../header.php';?>
+<?php include '../admin/header.php';?>
 <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 <div class="tablediv">
 
