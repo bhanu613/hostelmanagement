@@ -51,10 +51,10 @@
    $errmsg= '*Entry successful';
    $_SESSION['regno'] = $regno;
    if( $gender=="male"){
-      header('Location: student\mhregistration.php');
+      header('Location: student/mhregistration.php');
    }
    else if($gender=="female"){
-       header('Location: student\lhregistration.php');
+       header('Location: student/lhregistration.php');
    }
    }
    else{
@@ -74,7 +74,7 @@
 
       ?>
    </head>
-  <link rel="stylesheet" href="css\resgistration.css">
+  <link rel="stylesheet" href="css/resgistration.css">
 <body style="background: linear-gradient(120deg,green, orangered);">
   <?php       session_start(); ?>
 
