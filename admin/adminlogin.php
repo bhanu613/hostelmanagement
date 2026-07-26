@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Admin login</title>
-    <link rel="stylesheet" href="..\css\signin.css">
+    <link rel="stylesheet" href="../css/signin.css">
     <?php
 $errmsg="";
     if ($_SERVER['REQUEST_METHOD']=='POST'){
