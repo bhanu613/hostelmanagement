@@ -38,15 +38,15 @@ Important files in this repository include:
 
 ### Landing Page
 
-![Landing Page](images/landing-page.jpeg)
+![Landing Page](images/landing-page.png)
 
 ### Login Page
 
-![Login Page](images/login-page.jpeg)
+![Login Page](images/login-page.png)
 
 ### Registration Page
 
-![Registration Page](images/registration-page.jpeg)
+![Registration Page](images/registration-page.png)
 
 ## How to Run
 
