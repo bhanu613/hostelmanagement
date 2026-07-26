@@ -5,7 +5,7 @@
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
-   <link rel="stylesheet" href="css\aboutme.css">
+   <link rel="stylesheet" href="css/aboutme.css">
    <title>Contact us</title>
 
 
@@ -20,7 +20,7 @@
         <div class="card">
             <div class="content">
                 <div class="imgBx">
-                    <img src="images\devesh.jpeg" alt="">
+                    <img src="images/team-devesh.jpeg" alt="">
                 </div>
                 <div class="contentBx">
                     <h4>devesh</h4>
@@ -36,7 +36,7 @@
         <div class="card">
             <div class="content">
                 <div class="imgBx">
-                    <img src="images\shubham.jpeg" alt="">
+                    <img src="images/team-shubham.jpeg" alt="">
                 </div>
                 <div class="contentBx">
                     <h4>shubham</h4>
@@ -52,7 +52,7 @@
         <div class="card">
             <div class="content">
                 <div class="imgBx">
-                    <img src="images\bhanu.jpeg" alt="">
+                    <img src="images/team-bhanu.jpeg" alt="">
                 </div>
                 <div class="contentBx">
                     <h4>bhanu</h4>
