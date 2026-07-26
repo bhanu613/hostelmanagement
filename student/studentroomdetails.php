@@ -57,7 +57,7 @@ hr{
 
    ?>
 
-<?php include '../header.php';?>
+<?php include '../admin/header.php';?>
 
 <div class="room">
   <br><br>
@@ -66,7 +66,7 @@ hr{
 </div>
 <div class="card">
 
-  <img class="avatar"src="..\images\devesh.jpeg" alt="Avatar" >
+  <img class="avatar" src="../images/team-devesh.jpeg" alt="Avatar">
   <br>
   <br>
   <div class="container">
