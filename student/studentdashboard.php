@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <link rel="stylesheet" href="..\css\studentdashboard.css">
+    <link rel="stylesheet" href="../css/studentdashboard.css">
 
     <script type="text/javascript">
       function applyleave(){
@@ -24,7 +24,7 @@
 
 <!-- about -->
 
-<?php include '../header.php';?>
+<?php include '../admin/header.php';?>
 
 
 <!-- end about -->
