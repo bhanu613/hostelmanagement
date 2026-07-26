@@ -72,9 +72,3 @@ This repository is being shared as a bachelor's project and represents an academ
 - Add form validation and stronger authentication handling
 - Improve UI consistency and responsive design
 - Deploy on a public demo server
-
-![image](https://user-images.githubusercontent.com/57340784/205433954-339ec077-9db7-4884-9772-775757816fd9.png)
-
-![image](https://user-images.githubusercontent.com/57340784/205433992-47108f5f-fffa-4c04-897f-bfda50cac7d7.png)
-
-![image](https://user-images.githubusercontent.com/57340784/205434025-ea948c09-b902-480d-ba28-ecc15c54cb4c.png)
