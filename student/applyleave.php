@@ -13,7 +13,7 @@
          window.location.href ="studentdashboard.php";
      }
    </script>
-<link rel="stylesheet" href="..\css\applyleave.css">
+<link rel="stylesheet" href="../css/applyleave.css">
 
 <?php       session_start(); ?>
 <?php
