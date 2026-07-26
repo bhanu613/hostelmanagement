@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Signin</title>
-    <link rel="stylesheet" href="css\signin.css">
+    <link rel="stylesheet" href="css/signin.css">
     <script type="text/javascript">
       function back(){
         window.location.href ="index.php";
@@ -22,7 +22,7 @@
   $check = mysqli_fetch_array($result);
   if(isset($check)){
         $_SESSION['regno'] = $username;
-    header('Location: student\studentdashboard.php');
+    header('Location: student/studentdashboard.php');
 
   }
 
