@@ -135,7 +135,7 @@ img {vertical-align: middle;}
 
 <div class="Nav" id="Nav1">
   <div class="NavbarContainer">
-    <img src="images\logo.png" alt="" class="NavLogo" onclick="rtohome()">
+    <img src="images/logo.png" alt="" class="NavLogo" onclick="rtohome()">
     <div class="MobileIcon">
     <i class="fa fa-bars"></i>
     </div>
@@ -158,19 +158,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="images/image1.jpeg" style="width:100%">
+  <img src="images/campus-aerial-main.jpeg" style="width:100%">
   
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="images/image2.webp" style="width:100%">
+  <img src="images/hostel-building-2.jpeg" style="width:100%">
  
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="images/image5.jpeg" style="width:100%">
+  <img src="images/campus-aerial-green.jpeg" style="width:100%">
   
 </div>
 
@@ -258,7 +258,7 @@ function showSlides(n) {
 
 <div class="Column2">
 <div class="ImgWrap">
-<img class="Img" src="images/infosectionpic1.svg" alt="">
+<img class="Img" src="images/hostel-building-1.jpeg" alt="">
 </div>
 </div>
 </div>
@@ -308,7 +308,7 @@ function showSlides(n) {
             <a href="aboutme.php" class="FooterLink">Developers</a>
             <a href="#about" class="FooterLink">Services</a>
             <a href="pricing.php" class="FooterLink">Pricing</a>
-            <a href="admin\adminlogin.php" class="FooterLink">Admin</a>
+            <a href="admin/adminlogin.php" class="FooterLink">Admin</a>
         </div>
     </div>
   </div>
