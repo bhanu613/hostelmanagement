@@ -24,13 +24,13 @@ This project is a bachelor's web development project for managing hostel-related
 
 Important files in this repository include:
 
-- `index.php` – landing page
-- `signin.php` / `registration.php` – student authentication pages
-- `adminlogin.php` / `admindashboard.php` – admin-side access and dashboard
-- `roomdetails.php` / `studentroomdetails.php` – room information pages
-- `leaverequests.php` / `applyleave.php` – leave management features
-- `hms.sql` – database schema / SQL file
-- `connect.php` / `dbConnect.php` – database connection setup
+- `index.php` : landing page
+- `signin.php` / `registration.php` : student authentication pages
+- `adminlogin.php` / `admindashboard.php` : admin-side access and dashboard
+- `roomdetails.php` / `studentroomdetails.php` : room information pages
+- `leaverequests.php` / `applyleave.php` : leave management features
+- `hms.sql` : database schema / SQL file
+- `connect.php` / `dbConnect.php` : database connection setup
 
 ## Screenshots
 
