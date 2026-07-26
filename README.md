@@ -2,25 +2,27 @@
 
 ## Overview
 
-This project is a bachelor's web development project for managing hostel-related student workflows in a university setting. It provides modules for student registration, login, room information, leave requests, and admin-side management using PHP, CSS, and MySQL.
+Bachelor's web development project for managing hostel-related student workflows.  
+It includes student registration, login, room details, leave requests, and admin-side management using PHP, CSS, and MySQL.
 
 ## Features
 
 - Student registration and login
 - Admin login and dashboard
-- Hostel room details and room search
-- Student room details
-- Leave request management
-- Basic hostel management pages such as About, Pricing, and Contact
+- Hostel room details and student search
+- Student room details & roommate search
+- Leave request (apply / approve / reject)
+- Pricing, About, and Contact pages
 
 ## Tech Stack
 
 - PHP
 - MySQL
-- HTML/CSS
-- XAMPP / localhost environment
+- HTML / CSS
+- XAMPP (localhost)
 
 ## Project Structure
+
 
 Important files in this repository include:
 
@@ -53,15 +55,20 @@ Important files in this repository include:
 3. Import `hms.sql` into phpMyAdmin.
 4. Update database credentials in `connect.php` or `dbConnect.php` if needed.
 5. Start Apache and MySQL.
-6. Open the project in your browser using `http://localhost/<project-folder>`.
+6. Open the project in your browser using `http://localhost/<your_project_folder>`.
+
+**Default Admin Login**  
+Employee ID: `54672`  
+Password: `19MIS0240`
 
 ## Notes
 
-This repository is being shared as a bachelor's project and represents an academic web application prototype. It focuses on CRUD-style hostel management workflows and basic UI pages rather than production-grade deployment or security hardening.
+This repository is being shared as a bachelor's project and represents an academic web application prototype focused on basic hostel management workflows and basic UI pages rather than production-grade deployment or security hardening.
 
 ## Future Improvements
 
 - Improve folder structure by separating assets, views, and backend logic
+- Password hashing + prepared statements
 - Add form validation and stronger authentication handling
 - Improve UI consistency and responsive design
 - Deploy on a public demo server
