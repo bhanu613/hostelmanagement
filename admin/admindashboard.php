@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <link rel="stylesheet" href="..\css\mhreg.css">
+    <link rel="stylesheet" href="../css/mhreg.css">
 	<style>
 	body {
    width: 100vw;
