@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Pricing</title>
-    <link rel="stylesheet" href="css\pricing.css">
+    <link rel="stylesheet" href="css/pricing.css">
 
     <script type="text/javascript">
       function change(){
@@ -43,7 +43,7 @@
   <ul class="price">
     <li class="header"> 2 Bed Non-AC</li>
     <div class="imagewrapper">
-    <img style="height:150px; width:150px;" src="images/2222.JPEG" alt="">
+    <img style="height:150px; width:150px;" src="images/room-2bed-empty.jpeg" alt="">
     </div>
 
     <li class="grey">65K/ year</li>
@@ -57,7 +57,7 @@
 <ul class="price">
 <li class="header">4 Bed Non-AC</li>
 <div class="imagewrapper">
-<img style="height:150px; width:150px;" src="images/4444.JPEG" alt="">
+<img style="height:150px; width:150px;" src="images/room-4bed-girls.jpeg" alt="">
 </div>
 
 <li class="grey">55K/ year</li>
@@ -70,7 +70,7 @@
 <ul class="price">
 <li class="header"> 2 Bed AC</li>
 <div class="imagewrapper">
-<img style="height:150px; width:150px;" src="images/22.JPEG" alt="">
+<img style="height:150px; width:150px;" src="images/room-2bed-students.jpeg" alt="">
 </div>
 
 <li class="grey"> 1lakh/ year</li>
@@ -84,7 +84,7 @@
 <ul class="price">
 <li class="header"> 4 Bed AC</li>
 <div class="imagewrapper">
-<img style="height:150px; width:150px;" src="images/44.JPEG" alt="">
+<img style="height:150px; width:150px;" src="images/room-4bed-group.jpeg" alt="">
 </div>
 
 <li class="grey">90K/ year</li>
